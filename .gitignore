@@ -3,5 +3,3 @@
 *.so
 build
 obj
-testrunner
-xmlrunner
